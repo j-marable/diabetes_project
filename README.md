@@ -1,4 +1,4 @@
-# Predicting Diabetes Diagnosis With Risk Factor Database
+# Using AI to Predict Diabetes Diagnosis With Risk Factor Database
 
 ## Python 3 Libraries and Modules Used:
 - numpy
