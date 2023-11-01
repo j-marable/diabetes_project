@@ -1,4 +1,19 @@
-This project is made possible by the UCI Machine Learning Repository located here:
+# Predicting Diabetes Diagnosis With Risk Factor Database
+
+## Python 3 Libraries and Modules Used:
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+
+## Purpose and Usage:
+
+- Purpose - demonstrate the usage of Artificial Intelligence Models in combination with medical data to further build and/or extrapolate medical diagnositc abilities
+
+- Usage - this code uses the attached database 'diabetes_clean.csv' which is a compilation of diabetes diagnosis, medical, socioeconomic, and medical risk factors based of the CDC's BRFSS teleophone survey.
+  
+## Data Source:
+- UCI Machine Learning Repository located here:
 
 https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators
 
@@ -15,3 +30,5 @@ The questions that this project endeavors to ask include the following:
 2) What risk factors are most predictive of diabetes?
 3) Can we use a subset of the risk factors to accurately predict whether and individual has diabetes?
 4) Can we create a short form of questions from the BRFSS using feature selection to accurately predict if someone might have or is at risk of diabetes?
+
+Answers to these questions (literally and methodologically) can be found in the attached Jupyter Notebook
