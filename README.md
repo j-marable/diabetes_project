@@ -8,7 +8,7 @@
 
 ## Purpose and Usage:
 
-- Purpose - demonstrate the usage of Artificial Intelligence Models in combination with medical data to further build and/or extrapolate medical diagnositc abilities
+- Purpose - demonstrate the usage of Artificial Intelligence Classification Models via supervised learning in combination with medical data to further build and/or extrapolate medical diagnositc abilities
 
 - Usage - this code uses the attached database 'diabetes_clean.csv' which is a compilation of diabetes diagnosis, medical, socioeconomic, and medical risk factors based of the CDC's BRFSS teleophone survey.
   
